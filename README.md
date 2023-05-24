@@ -1,9 +1,11 @@
 Step to start the server and use api 
-
+```
 npm i
-start the redis server
-node server.js
 
+start the redis server
+
+node server.js
+```
 API's
 
 **To fetch the news articals**
