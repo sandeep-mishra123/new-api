@@ -6,10 +6,12 @@ node server.js
 
 API's
 
-To fetch the news articals
-  **1.** **localhost:3000/articles**
+**To fetch the news articals**
 
-To fetch record based on search
-  **1.** **localhost:3000/articles/search/:searchKeyword**
+    1. localhost:3000/articles
+
+**To fetch record based on search**
+
+      1. localhost:3000/articles/search/:searchKeyword
   
-    Note: searchKeyword is your search parameter
+    Note: searchKeyword is your search parameter, e.g.: localhost:3000/articles/search/google
